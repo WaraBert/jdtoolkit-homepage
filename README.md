@@ -1,2 +1,2 @@
 # jdtoolkit-homepage
-https://warabert.github.io/jdtoolkit-homepage/
+# https://warabert.github.io/jdtoolkit-homepage/
