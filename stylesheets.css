@@ -9,12 +9,12 @@ body {
 }
 
 h1 {
-	color: #497335;
+	color: #ffffff;
 	font-size: 3em;
 }
 
 p, ul {
-	font-family: "Times New Roman", serif;
+	font-family: "Helvetica Neue", serif;
 	color: #ffffff;
 	max-width: 30em;
 	width: 100%;
