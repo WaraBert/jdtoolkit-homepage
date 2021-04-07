@@ -12,7 +12,11 @@ h1 {
 	color: #ffffff;
 	font-size: 3em;
 }
-
+ul {
+list-style-type: none;
+    overflow: hidden;
+    background-color: #BF6B63;
+    }
 p, ul {
 	font-family: "Helvetica Neue", serif;
 	color: #ffffff;
