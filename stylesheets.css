@@ -17,6 +17,7 @@ ul {
 list-style-type: none;
     overflow: hidden;
     background-color: #ffffff;
+    color: #cfa784;
     }
 p, ul {
 	font-family: 'Open Sans Condensed', sans-serif;
