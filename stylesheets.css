@@ -1,6 +1,6 @@
 
 body {
-	background-color: #cfa784;
+	background-color: #895b92;
 	margin: 1em auto;
 	font-size: 7px;
 	padding: 1em;
@@ -46,7 +46,7 @@ position: relative;
     }
     
     nav a {
-    color: #cfa784
+    color: #ff2b70
     text-decoration: none;
     text-transform: uppercase;
      }
