@@ -23,7 +23,7 @@ list-style-type: none;
 
 nav li {
 display: inline-block;
-margin-left: 3em;
+margin: 1em auto 1em auto;
     overflow: hidden;
     background-color: #ffffff;
     }
@@ -33,6 +33,10 @@ margin-left: 3em;
     text-decoration: none;
     text-transform: uppercase;
      }
+     
+     nav a:hover {
+     color: #cfa784
+      }
     
 p, ul {
 	font-family: 'Open Sans Condensed', sans-serif;
