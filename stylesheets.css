@@ -13,12 +13,27 @@ h1 {
 	color: #ffffff;
 	font-size: 3em;
 }
-ul {
+
+
+nav ul {
+margin: 0;
+padding: 0;
 list-style-type: none;
+}
+
+nav li {
+display: inline-block;
+margin-left: 3em;
     overflow: hidden;
     background-color: #ffffff;
-    color: #cfa784;
     }
+    
+    nav a {
+    color: #cfa784
+    text-decoration: none;
+    text-transform: uppercase;
+     }
+    
 p, ul {
 	font-family: 'Open Sans Condensed', sans-serif;
 	color: #ffffff;
