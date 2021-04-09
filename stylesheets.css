@@ -24,11 +24,11 @@ background: #ffffff;
  }
  
  .logo {
- float: left;
+ float: center;
  }
  
 nav {
-float: right;
+float: center;
 }
 
 nav ul {
@@ -40,8 +40,6 @@ list-style-type: none;
 nav li {
 display: inline-block;
 margin: 1em auto 1em auto;
-    overflow: hidden;
-    background-color: #ffffff;
     }
     
     nav a {
@@ -68,8 +66,8 @@ p, ul {
 img.logo {
 	width: 100%;
 	height: auto;
-	max-width: 400px;
-	max-height: 400px;
+	max-width: 100px;
+	max-height: 100px;
 	margin: 2em auto;
 }
 img.distance {
