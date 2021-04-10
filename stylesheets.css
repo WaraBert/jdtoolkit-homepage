@@ -28,6 +28,15 @@ background: #ffffff;
  padding: 1em;
  }
  
+ li a {
+ display: block;
+ color: #ffffff;
+ text-align: center;
+ padding: 1em;
+ text-decoration: none;
+ }
+ 
+ 
 nav {
 float: right;
 }
@@ -41,7 +50,6 @@ list-style: none;
 nav li {
 display: inline-block;
 margin: 1em auto 1em auto;
-
 position: relative;
     }
     
@@ -55,6 +63,7 @@ position: relative;
      color: #ff2b70;
      
       }
+      
     
 p, ul {
 	font-family: 'Open Sans Condensed', sans-serif;
@@ -74,13 +83,7 @@ img.logo {
 	max-height: 200px;
 	margin: 2em auto;
 }
-img.distance {
-	width: 100%;
-	height: auto;
-	max-width: 400px;
-	max-height: 400px;
-	margin: 2em auto;
-}
+
 
 img {
   max-width: 100%;
